@@ -22,3 +22,5 @@
 #import "SCSoundCloud.h"
 #import "SCAccount.h"
 #import "SCRequest.h"
+#import "SCSoundCloud+Private.h"
+#import "SCAccount+Private.h"
